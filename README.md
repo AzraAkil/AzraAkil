@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AzraAkil
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning python and looking forward to learn different programming languages
+- 🌱 I’m currently learning html, CSS
 - 💞️ I’m looking to collaborate on creative project
 - 📫 How to reach me ...
 
